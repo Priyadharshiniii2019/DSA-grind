@@ -5,7 +5,7 @@ I’m a Computer Science graduate focused on improving my coding and problem-sol
 
 I use GitHub to document the coding I do from daily coding problems and solutions to the concepts and approaches I practice along the way.
 
-This repository is a record of my coding practice and progress, one problem at a time. 
+This repository is a record of my coding progress;) 
 
 
 
