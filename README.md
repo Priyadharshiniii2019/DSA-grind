@@ -1,4 +1,3 @@
-# DSA-Grind
 Documenting my DSA grind ;)
 
 I’m a Computer Science graduate focused on improving my coding and problem-solving skills through consistent practice.
